@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../posts"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../comments"
+		},
+		{
+			"path": "../../event-bus"
+		}
+	]
+}

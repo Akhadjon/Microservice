@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../comments"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../posts"
+		},
+		{
+			"path": "../query"
+		},
+		{
+			"path": "../client"
+		}
+	]
+}
